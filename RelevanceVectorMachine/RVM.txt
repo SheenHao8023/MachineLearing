@@ -1,0 +1,2 @@
+Relevance Vector Machine  相关向量机
+做稀疏学习的加回归预测
